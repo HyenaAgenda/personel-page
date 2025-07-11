@@ -7,7 +7,7 @@ module.exports = {
       colors: {
         background: '#232323', // dark grey
         accent: '#e0e0e0', // light grey for highlights
-        text: '#ffffff', // pure white for all text
+        text: '#ffffff', // pure white for all textt
         highlight: '#ffffff', // white for extra contrast
         gray1: '#333',
         gray2: '#444',
