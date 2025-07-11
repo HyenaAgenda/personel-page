@@ -3,8 +3,8 @@ import { TrophyIcon } from '@heroicons/react/24/solid';
 
 const awards = [
   {
-    title: 'Deputy Chief of General Staff Award for excellence',
-    description: 'Awarded by the deputy chief of general staff for work on AI projects.',
+    title: 'Deputy Chief of General Staff Commendation',
+    description: 'Awarded by the deputy chief of general staff for my work on AI projects for army HQ.',
   },
   {
     title: 'Top Student Award',
